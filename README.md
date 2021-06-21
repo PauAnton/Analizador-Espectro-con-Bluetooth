@@ -4,6 +4,10 @@
 - Pau Antón
 - Víctor Serrano
 
+
+#### Enlace al vídeo del montaje [aquí](https://www.youtube.com/watch?v=xqxEoIzMi20)
+
+
 ## 1.INTRODUCCIÓN
 
 En este proyecto, hemos querido desarrollar muchos de los conceptos aprendidos a lo largo del semestre, ya sean las tareas, redacción de informes markdown o los diversos buses de comunicación, mediante la implementación de un dispositivo relacionado con el ámbito audiovisual. 
